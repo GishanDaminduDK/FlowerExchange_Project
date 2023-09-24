@@ -9,9 +9,7 @@ Welcome to the Flower Trading Platform project, brought to you by the London Sto
 - The core of the exchange application is built using C++ Object-Oriented Programming (OOP) principles.
 - Our primary focus during development was on maximizing efficiency and optimizing the speed of the program.
 
-## Why Flowers?
 
-Flowers might seem like an unusual choice for a stock exchange, but they provide an interesting and creative way to demonstrate the principles of trading and financial markets. By simulating real-world trading scenarios with flowers, we can make complex financial concepts more accessible and engaging.
 
 ## Key Features
 
